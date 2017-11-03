@@ -1,2 +1,4 @@
 # kaggle_solutions
-A set of *Kaggle* solutions. Not very clean.
+A set of *Kaggle* competition solutions as well as some work from tutorials.
+
+
