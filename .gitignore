@@ -99,3 +99,8 @@ ENV/
 
 # mypy
 .mypy_cache/
+*.csv
+02_MNIST/MNIST Simple NN using Tensorflow.ipynb
+02_MNIST/mnist_softmax.py
+02_MNIST/mnist_softmax_cnn_submission.py
+*.keras
